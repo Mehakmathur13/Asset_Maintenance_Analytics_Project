@@ -1,0 +1,401 @@
+Record_ID,Asset_ID,Asset_Type,Unit,Location,Status,Maintenance_Type,Maintenance_Date,Maintenance_Days,Maintenance_Cost_INR,Inventory_Item,Inventory_Stock,Reorder_Level,Quantity,Stock_Status
+REC-0001,AST-1089,Cooling System,Unit E,Jodhpur,Operational,,2026-04-30,2,0.0,Sensor,84.0,20,4,OK
+REC-0002,AST-1100,Cooling System,Unit B,Jaipur,Standby,,2026-02-16,2,0.0,Sensor,42.0,40,1,OK
+REC-0003,AST-1007,Vehicle,Unit E,Ahmedabad,Under Maintenance,Preventive,2025-03-25,5,32159.0,Battery,81.0,48,15,OK
+REC-0004,AST-1133,Vehicle,Unit E,Jaipur,Operational,,2025-04-23,0,0.0,Fuse,130.0,25,13,OK
+REC-0005,AST-1045,Cooling System,Unit D,Jodhpur,Operational,,2025-11-28,1,0.0,Sensor,91.0,56,8,OK
+REC-0006,AST-1058,Generator,Unit A,Jaipur,Operational,,2026-01-13,0,0.0,Fuse,58.0,20,4,OK
+REC-0007,AST-1031,Communication Equipment,Unit C,Jodhpur,Operational,,2025-02-10,0,0.0,Cable,20.0,20,10,OK
+REC-0008,AST-1023,Radar Unit,Unit A,Unknown,Under Maintenance,Inspection,2025-04-15,30,10532.0,Battery,32.0,46,19,Low Stock
+REC-0009,AST-1138,Vehicle,Unit D,Delhi,Operational,,2025-07-21,0,0.0,Connector,50.0,40,18,OK
+REC-0010,AST-1107,Vehicle,Unit C,Ahmedabad,Under Maintenance,Corrective,2026-03-26,3,22458.0,Sensor,76.0,35,5,OK
+REC-0011,AST-1039,Cooling System,Unit E,Jodhpur,Operational,,2025-09-23,1,0.0,Filter,89.0,59,19,OK
+REC-0012,AST-1082,Power Unit,Unit D,Jaipur,Standby,,2025-07-29,0,0.0,Cable,30.0,45,16,Low Stock
+REC-0013,AST-1100,Radar Unit,Unit E,Ahmedabad,Under Maintenance,Inspection,2025-04-28,16,4431.0,Fuse,89.0,35,1,OK
+REC-0014,AST-1002,Radar Unit,Unit B,Delhi,Operational,Inspection,2026-01-12,2,4471.0,Sensor,69.0,47,12,OK
+REC-0015,AST-1077,Vehicle,Unit D,Chandigarh,Operational,,2026-06-24,0,0.0,Battery,138.0,20,2,OK
+REC-0016,AST-1012,Generator,Unit B,Ahmedabad,Operational,Corrective,2025-03-25,0,65195.0,Connector,119.0,55,8,OK
+REC-0017,AST-1039,Power Unit,Unit D,Jodhpur,Operational,Preventive,2026-03-30,1,22735.0,Lubricant,68.0,29,18,OK
+REC-0018,AST-1013,Radar Unit,Unit D,Delhi,Operational,,2026-05-29,2,0.0,Connector,91.0,36,16,OK
+REC-0019,AST-1046,Vehicle,Unit B,Jaipur,Operational,,2026-01-22,0,0.0,Filter,111.0,42,5,OK
+REC-0020,AST-1113,Radar Unit,Unit C,Delhi,Operational,,2025-12-16,2,0.0,Fuse,100.0,26,13,OK
+REC-0021,AST-1017,Power Unit,Unit A,Delhi,Operational,,2025-10-23,1,0.0,Cable,81.0,26,19,OK
+REC-0022,AST-1104,Power Unit,Unit E,Pune,Operational,,2025-09-15,2,0.0,Connector,150.0,34,3,OK
+REC-0023,AST-1098,Communication Equipment,Unit D,Delhi,Operational,Preventive,2025-03-22,1,17692.0,Battery,91.0,53,8,OK
+REC-0024,AST-1088,Cooling System,Unit E,Delhi,Operational,,2025-09-25,1,0.0,Filter,61.0,23,12,OK
+REC-0025,AST-1109,Cooling System,Unit B,Ahmedabad,Operational,,2026-02-23,0,0.0,Battery,107.0,33,2,OK
+REC-0026,AST-1070,Vehicle,Unit E,Jaipur,Under Maintenance,Corrective,2025-08-23,19,25296.0,Sensor,95.0,33,11,OK
+REC-0027,AST-1074,Power Unit,Unit B,Ahmedabad,Operational,,2025-11-07,1,0.0,Lubricant,49.0,35,12,OK
+REC-0028,AST-1063,Communication Equipment,Unit E,Ahmedabad,Operational,,2025-12-23,1,0.0,Cable,92.0,26,18,OK
+REC-0029,AST-1060,Communication Equipment,Unit A,Jodhpur,Operational,,2025-08-01,0,0.0,Battery,119.0,51,13,OK
+REC-0030,AST-1079,Radar Unit,Unit A,Ahmedabad,Operational,,2025-02-18,1,0.0,Fuse,51.0,38,5,OK
+REC-0031,AST-1037,Radar Unit,Unit A,Pune,Operational,,2025-05-07,0,0.0,Sensor,139.0,21,12,OK
+REC-0032,AST-1022,Communication Equipment,Unit A,Pune,Operational,,2025-08-11,0,0.0,Sensor,54.0,29,2,OK
+REC-0033,AST-1148,Radar Unit,Unit A,Jodhpur,Operational,,2025-10-06,0,0.0,Cable,88.0,36,5,OK
+REC-0034,AST-1096,Power Unit,Unit A,Chandigarh,Standby,Preventive,2026-02-12,0,37134.0,Sensor,95.0,56,7,OK
+REC-0035,AST-1068,Generator,Unit B,Jaipur,Standby,Preventive,2026-05-20,0,17345.0,Fuse,138.0,31,12,OK
+REC-0036,AST-1017,Power Unit,Unit D,Jaipur,Under Maintenance,Corrective,2025-10-21,8,36452.0,Battery,95.0,25,16,OK
+REC-0037,AST-1012,Communication Equipment,Unit E,Ahmedabad,Operational,,2025-10-04,0,0.0,Cable,141.0,41,8,OK
+REC-0038,AST-1150,Communication Equipment,Unit A,Ahmedabad,Operational,,2026-03-14,0,0.0,Sensor,113.0,51,9,OK
+REC-0039,AST-1145,Power Unit,Unit B,Chandigarh,Under Maintenance,Corrective,2025-04-17,27,82450.0,Sensor,61.0,60,15,OK
+REC-0040,AST-1138,Radar Unit,Unit B,Ahmedabad,Operational,,2026-02-24,0,0.0,Fuse,35.0,39,5,Low Stock
+REC-0041,AST-1118,Radar Unit,Unit B,Jaipur,Operational,Preventive,2026-03-05,0,16486.0,Lubricant,25.0,20,13,OK
+REC-0042,AST-1022,Cooling System,Unit D,Delhi,Operational,,2026-01-10,0,0.0,Lubricant,,25,5,Unknown
+REC-0043,AST-1120,Communication Equipment,Unit E,Pune,Operational,,2025-03-14,2,0.0,Connector,44.0,38,11,OK
+REC-0044,AST-1050,Vehicle,Unit D,Delhi,Standby,Corrective,2025-01-30,2,30356.0,Sensor,116.0,37,10,OK
+REC-0045,AST-1014,Cooling System,Unit C,Delhi,Operational,,2025-07-07,0,0.0,Battery,49.0,25,20,OK
+REC-0046,AST-1029,Radar Unit,Unit B,Jaipur,Operational,,2025-12-30,1,0.0,Cable,81.0,52,13,OK
+REC-0047,AST-1125,Power Unit,Unit C,Delhi,Operational,,2026-03-27,0,0.0,Sensor,91.0,42,9,OK
+REC-0048,AST-1007,Radar Unit,Unit A,Chandigarh,Operational,,2025-07-14,1,0.0,Filter,105.0,42,14,OK
+REC-0049,AST-1029,Power Unit,Unit A,Jodhpur,Operational,Corrective,2025-06-05,0,75620.0,Cable,121.0,45,18,OK
+REC-0050,AST-1139,Cooling System,Unit D,Ahmedabad,Operational,,2025-06-21,2,0.0,Connector,96.0,32,15,OK
+REC-0051,AST-1033,Communication Equipment,Unit E,Jodhpur,Standby,,2025-02-10,2,0.0,Lubricant,149.0,26,10,OK
+REC-0052,AST-1134,Radar Unit,Unit C,Pune,Under Maintenance,Corrective,2025-03-04,29,32387.0,Sensor,32.0,34,7,Low Stock
+REC-0053,AST-1111,Power Unit,Unit E,Ahmedabad,Standby,Corrective,2025-01-23,0,20591.0,Fuse,29.0,46,8,Low Stock
+REC-0054,AST-1079,Communication Equipment,Unit D,Delhi,Standby,,2025-12-26,1,0.0,Filter,62.0,45,3,OK
+REC-0055,AST-1058,Vehicle,Unit A,Pune,Operational,,2025-03-16,2,0.0,Sensor,45.0,52,15,Low Stock
+REC-0056,AST-1026,Power Unit,Unit E,Ahmedabad,Standby,Inspection,2025-04-28,0,3845.0,Connector,138.0,34,16,OK
+REC-0057,AST-1029,Cooling System,Unit E,Chandigarh,Operational,Preventive,2026-01-15,0,39954.0,Battery,79.0,55,4,OK
+REC-0058,AST-1004,Vehicle,Unit A,Chandigarh,Operational,,2025-10-17,1,0.0,Filter,42.0,46,6,Low Stock
+REC-0059,AST-1099,Vehicle,Unit C,Chandigarh,Operational,,2026-03-16,0,0.0,Connector,138.0,24,1,OK
+REC-0060,AST-1141,Generator,Unit A,Chandigarh,Operational,,2025-01-07,1,0.0,Sensor,79.0,21,4,OK
+REC-0061,AST-1039,Radar Unit,Unit E,Delhi,Operational,,2025-07-15,2,0.0,Battery,146.0,52,11,OK
+REC-0062,AST-1015,Power Unit,Unit C,Jodhpur,Operational,,2026-02-25,2,0.0,Filter,70.0,35,12,OK
+REC-0063,AST-1119,Vehicle,Unit C,Ahmedabad,Under Maintenance,Inspection,2025-07-12,26,3830.0,Battery,7.0,42,5,Low Stock
+REC-0064,AST-1029,Generator,Unit A,Delhi,Operational,,2025-05-28,2,0.0,Battery,121.0,57,16,OK
+REC-0065,AST-1075,Cooling System,Unit E,Chandigarh,Operational,,2025-07-21,2,0.0,Filter,103.0,35,13,OK
+REC-0066,AST-1116,Communication Equipment,Unit D,Jodhpur,Operational,,2026-03-20,0,0.0,Filter,23.0,33,13,Low Stock
+REC-0067,AST-1032,Power Unit,Unit E,Pune,Operational,,2026-02-23,0,0.0,Battery,150.0,48,17,OK
+REC-0068,AST-1130,Vehicle,Unit B,Pune,Under Maintenance,Corrective,2026-03-03,27,24968.0,Connector,120.0,45,7,OK
+REC-0069,AST-1084,Radar Unit,Unit D,Pune,Operational,,2026-04-24,1,0.0,Lubricant,129.0,54,8,OK
+REC-0070,AST-1022,Generator,Unit C,Chandigarh,Standby,,2026-04-20,2,0.0,Filter,92.0,34,13,OK
+REC-0071,AST-1027,Vehicle,Unit D,Pune,Under Maintenance,Corrective,2025-05-06,6,77848.0,Sensor,39.0,22,16,OK
+REC-0072,AST-1081,Radar Unit,Unit C,Jaipur,Operational,,2026-01-30,2,0.0,Cable,5.0,42,4,Low Stock
+REC-0073,AST-1126,Vehicle,Unit C,Ahmedabad,Operational,,2025-11-21,0,0.0,Fuse,130.0,48,8,OK
+REC-0074,AST-1092,Power Unit,Unit D,Ahmedabad,Under Maintenance,Corrective,2026-01-27,10,62589.0,Battery,93.0,53,16,OK
+REC-0075,AST-1021,Power Unit,Unit C,Chandigarh,Under Maintenance,Corrective,2026-03-16,12,50115.0,Battery,148.0,52,10,OK
+REC-0076,AST-1047,Power Unit,Unit C,Jaipur,Under Maintenance,Corrective,2025-07-23,25,79934.0,Fuse,29.0,60,12,Low Stock
+REC-0077,AST-1101,Cooling System,Unit B,Delhi,Under Maintenance,Preventive,2026-05-01,23,13901.0,Lubricant,20.0,60,12,Low Stock
+REC-0078,AST-1084,Cooling System,Unit E,Delhi,Operational,,2025-01-31,0,0.0,Fuse,77.0,42,5,OK
+REC-0079,AST-1006,Generator,Unit E,Pune,Operational,,2026-01-23,1,0.0,Filter,133.0,26,16,OK
+REC-0080,AST-1147,Power Unit,Unit B,Jodhpur,Operational,Inspection,2026-03-10,2,4343.0,Fuse,46.0,22,1,OK
+REC-0081,AST-1131,Radar Unit,Unit D,Delhi,Under Maintenance,Corrective,2026-01-11,28,32955.0,Battery,84.0,51,9,OK
+REC-0082,AST-1001,Vehicle,Unit A,Jodhpur,Operational,,2025-12-10,1,0.0,Fuse,108.0,50,12,OK
+REC-0083,AST-1058,Communication Equipment,Unit A,Ahmedabad,Operational,,2026-03-19,0,0.0,Cable,150.0,37,5,OK
+REC-0084,AST-1124,Radar Unit,Unit A,Jodhpur,Operational,,2025-03-16,1,0.0,Sensor,38.0,26,20,OK
+REC-0085,AST-1015,Cooling System,Unit B,Ahmedabad,Operational,,2025-06-04,0,0.0,Filter,93.0,60,3,OK
+REC-0086,AST-1064,Cooling System,Unit B,Jaipur,Operational,,2026-03-06,0,0.0,Fuse,129.0,20,5,OK
+REC-0087,AST-1025,Radar Unit,Unit C,Jaipur,Under Maintenance,Corrective,2025-12-29,15,39113.0,Battery,49.0,33,2,OK
+REC-0088,AST-1024,Cooling System,Unit A,Chandigarh,Operational,,2026-03-24,0,0.0,Connector,138.0,51,14,OK
+REC-0089,AST-1012,Power Unit,Unit D,Chandigarh,Standby,,2025-08-22,2,0.0,Sensor,25.0,25,2,OK
+REC-0090,AST-1018,Generator,Unit D,Pune,Operational,,2025-09-19,1,0.0,Filter,126.0,58,13,OK
+REC-0091,AST-1015,Vehicle,Unit A,Delhi,Operational,,2025-05-05,0,0.0,Battery,74.0,29,7,OK
+REC-0092,AST-1027,Generator,Unit A,Pune,Under Maintenance,Preventive,2025-09-02,19,26800.0,Lubricant,100.0,26,10,OK
+REC-0093,AST-1072,Vehicle,Unit A,Ahmedabad,Under Maintenance,Corrective,2026-06-26,15,65221.0,Cable,109.0,45,13,OK
+REC-0094,AST-1060,Vehicle,Unit B,Pune,Operational,,2026-04-30,1,0.0,Lubricant,52.0,53,16,Low Stock
+REC-0095,AST-1145,Generator,Unit B,Jodhpur,Under Maintenance,Preventive,2025-05-02,15,18001.0,Cable,43.0,49,14,Low Stock
+REC-0096,AST-1093,Radar Unit,Unit B,Ahmedabad,Operational,Corrective,2025-05-05,0,72935.0,Fuse,35.0,55,11,Low Stock
+REC-0097,AST-1053,Vehicle,Unit E,Chandigarh,Operational,,2025-06-19,2,0.0,Filter,14.0,40,10,Low Stock
+REC-0098,AST-1008,Generator,Unit D,Jaipur,Operational,,2025-05-04,0,0.0,Fuse,34.0,36,6,Low Stock
+REC-0099,AST-1079,Vehicle,Unit D,Chandigarh,Operational,,2025-02-04,2,0.0,Cable,22.0,52,4,Low Stock
+REC-0100,AST-1027,Communication Equipment,Unit C,Delhi,Operational,,2025-03-28,2,0.0,Cable,92.0,29,1,OK
+REC-0101,AST-1050,Radar Unit,Unit B,Ahmedabad,Operational,,2025-07-20,0,0.0,Cable,129.0,31,7,OK
+REC-0102,AST-1131,Power Unit,Unit E,Ahmedabad,Operational,,2026-01-04,1,0.0,Sensor,77.0,35,9,OK
+REC-0103,AST-1093,Vehicle,Unit E,Jodhpur,Operational,Corrective,2025-03-18,1,48049.0,Battery,19.0,60,8,Low Stock
+REC-0104,AST-1024,Communication Equipment,Unit D,Delhi,Operational,,2025-02-28,2,0.0,Filter,8.0,51,5,Low Stock
+REC-0105,AST-1060,Power Unit,Unit B,Jaipur,Standby,,2026-03-07,2,0.0,Fuse,13.0,34,19,Low Stock
+REC-0106,AST-1122,Power Unit,Unit C,Ahmedabad,Operational,,2026-05-15,1,0.0,Fuse,113.0,46,10,OK
+REC-0107,AST-1131,Vehicle,Unit B,Ahmedabad,Operational,,2025-04-19,1,0.0,Lubricant,141.0,47,11,OK
+REC-0108,AST-1148,Generator,Unit A,Jodhpur,Under Maintenance,Preventive,2025-10-05,12,10968.0,Cable,136.0,36,15,OK
+REC-0109,AST-1046,Vehicle,Unit B,Pune,Operational,,2025-03-09,0,0.0,Connector,20.0,21,6,Low Stock
+REC-0110,AST-1015,Communication Equipment,Unit A,Jaipur,Operational,,2025-03-10,2,0.0,Cable,147.0,55,15,OK
+REC-0111,AST-1017,Power Unit,Unit A,Chandigarh,Operational,,2025-06-14,1,0.0,Cable,103.0,26,5,OK
+REC-0112,AST-1126,Vehicle,Unit C,Delhi,Operational,,2026-05-04,2,0.0,Connector,125.0,32,19,OK
+REC-0113,AST-1084,Generator,Unit D,Ahmedabad,Standby,,2025-11-01,2,0.0,Fuse,56.0,34,19,OK
+REC-0114,AST-1009,Vehicle,Unit B,Ahmedabad,Under Maintenance,Preventive,2025-12-31,7,15519.0,Lubricant,73.0,44,10,OK
+REC-0115,AST-1063,Radar Unit,Unit A,Chandigarh,Operational,,2026-01-14,0,0.0,Battery,9.0,42,12,Low Stock
+REC-0116,AST-1117,Generator,Unit B,Jaipur,Under Maintenance,Preventive,2025-12-09,17,18737.0,Connector,24.0,41,4,Low Stock
+REC-0117,AST-1130,Communication Equipment,Unit D,Pune,Under Maintenance,Corrective,2025-12-20,5,33810.0,Sensor,83.0,45,18,OK
+REC-0118,AST-1088,Power Unit,Unit D,Ahmedabad,Operational,,2026-02-20,1,0.0,Filter,150.0,52,16,OK
+REC-0119,AST-1072,Vehicle,Unit E,Jaipur,Standby,,2025-04-19,0,0.0,Connector,115.0,30,8,OK
+REC-0120,AST-1139,Generator,Unit D,Chandigarh,Operational,Preventive,2026-05-12,0,33096.0,Battery,6.0,29,4,Low Stock
+REC-0121,AST-1064,Radar Unit,Unit C,Jodhpur,Under Maintenance,Inspection,2025-12-07,25,2191.0,Fuse,97.0,44,12,OK
+REC-0122,AST-1072,Generator,Unit A,Pune,Standby,Corrective,2026-01-18,1,30816.0,Sensor,17.0,56,2,Low Stock
+REC-0123,AST-1021,Cooling System,Unit E,Delhi,Operational,,2026-06-17,0,,Sensor,8.0,57,4,Low Stock
+REC-0124,AST-1018,Radar Unit,Unit C,Ahmedabad,Operational,,2025-10-27,2,0.0,Sensor,113.0,60,5,OK
+REC-0125,AST-1064,Communication Equipment,Unit B,Jaipur,Operational,,2025-05-19,1,0.0,Cable,78.0,43,3,OK
+REC-0126,AST-1082,Power Unit,Unit A,Jodhpur,Operational,,2025-12-25,1,0.0,Filter,99.0,59,9,OK
+REC-0127,AST-1110,Communication Equipment,Unit D,Delhi,Under Maintenance,Preventive,2026-05-14,6,7870.0,Fuse,109.0,52,18,OK
+REC-0128,AST-1095,Vehicle,Unit A,Jaipur,Under Maintenance,Corrective,2026-01-20,26,54468.0,Fuse,12.0,36,11,Low Stock
+REC-0129,AST-1032,Generator,Unit B,Jaipur,Operational,,2025-10-07,1,0.0,Sensor,71.0,43,3,OK
+REC-0130,AST-1011,Cooling System,Unit E,Delhi,Operational,,2026-04-28,1,0.0,Fuse,114.0,56,2,OK
+REC-0131,AST-1045,Radar Unit,Unit E,Jodhpur,Operational,,2025-04-21,1,0.0,Filter,13.0,21,9,Low Stock
+REC-0132,AST-1033,Radar Unit,Unit E,Chandigarh,Operational,,2025-05-19,0,0.0,Filter,121.0,51,14,OK
+REC-0133,AST-1102,Generator,Unit D,Jodhpur,Operational,,2026-03-11,2,0.0,Lubricant,15.0,43,4,Low Stock
+REC-0134,AST-1136,Cooling System,Unit C,Pune,Operational,Inspection,2026-05-24,2,8281.0,Connector,103.0,28,9,OK
+REC-0135,AST-1011,Generator,Unit C,Ahmedabad,Standby,,2025-09-30,2,0.0,Connector,46.0,23,13,OK
+REC-0136,AST-1088,Vehicle,Unit A,Delhi,Operational,,2025-04-09,2,0.0,Lubricant,145.0,36,18,OK
+REC-0137,AST-1041,Communication Equipment,Unit D,Chandigarh,Operational,,2025-04-14,0,0.0,Battery,124.0,36,15,OK
+REC-0138,AST-1145,Radar Unit,Unit E,Delhi,Under Maintenance,Corrective,2025-08-02,5,32671.0,Connector,145.0,49,10,OK
+REC-0139,AST-1076,Vehicle,Unit E,Delhi,Operational,Corrective,2025-06-14,2,45048.0,Filter,16.0,59,16,Low Stock
+REC-0140,AST-1121,Communication Equipment,Unit B,Jodhpur,Standby,Preventive,2026-06-04,0,38027.0,Filter,41.0,30,12,OK
+REC-0141,AST-1046,Vehicle,Unit B,Ahmedabad,Standby,,2025-10-11,0,0.0,Connector,78.0,40,20,OK
+REC-0142,AST-1080,Cooling System,Unit E,Pune,Operational,Inspection,2026-06-01,1,11874.0,Filter,77.0,40,5,OK
+REC-0143,AST-1054,Radar Unit,Unit E,Jaipur,Operational,,2025-06-13,0,0.0,Lubricant,56.0,37,2,OK
+REC-0144,AST-1086,Generator,Unit D,Jaipur,Operational,,2025-03-05,1,0.0,Sensor,134.0,48,10,OK
+REC-0145,AST-1092,Generator,Unit C,Delhi,Operational,,2025-04-01,2,0.0,Sensor,60.0,43,1,OK
+REC-0146,AST-1148,Communication Equipment,Unit B,Ahmedabad,Operational,,2025-04-27,0,0.0,Fuse,64.0,29,7,OK
+REC-0147,AST-1097,Power Unit,Unit C,Chandigarh,Operational,,2025-09-24,0,0.0,Sensor,27.0,36,17,Low Stock
+REC-0148,AST-1002,Cooling System,Unit D,Jodhpur,Operational,,2025-05-20,0,0.0,Cable,107.0,37,16,OK
+REC-0149,AST-1033,Communication Equipment,Unit E,Ahmedabad,Operational,,2025-09-03,0,0.0,Lubricant,44.0,39,3,OK
+REC-0150,AST-1077,Power Unit,Unit C,Ahmedabad,Operational,,2026-01-30,0,0.0,Filter,68.0,56,14,OK
+REC-0151,AST-1116,Vehicle,Unit E,Jodhpur,Standby,Inspection,2026-05-02,2,1787.0,Connector,89.0,37,10,OK
+REC-0152,AST-1150,Cooling System,Unit E,Delhi,Operational,,2026-04-21,0,0.0,Sensor,93.0,36,7,OK
+REC-0153,AST-1103,Vehicle,Unit A,Ahmedabad,Operational,,2026-06-01,0,0.0,Lubricant,35.0,28,17,OK
+REC-0154,AST-1103,Radar Unit,Unit C,Jaipur,Operational,,2025-07-03,0,0.0,Sensor,24.0,33,6,Low Stock
+REC-0155,AST-1090,Cooling System,Unit C,Jodhpur,Standby,,2025-01-20,2,0.0,Battery,134.0,48,4,OK
+REC-0156,AST-1122,Power Unit,Unit E,Chandigarh,Operational,,2026-06-08,1,0.0,Filter,17.0,50,17,Low Stock
+REC-0157,AST-1143,Radar Unit,Unit D,Pune,Operational,,2026-06-13,0,0.0,Battery,126.0,23,9,OK
+REC-0158,AST-1106,Generator,Unit A,Delhi,Under Maintenance,Inspection,2025-05-27,16,3863.0,Filter,107.0,37,4,OK
+REC-0159,AST-1119,Power Unit,Unit E,Jodhpur,Operational,,2025-10-31,0,0.0,Lubricant,110.0,39,7,OK
+REC-0160,AST-1049,Communication Equipment,Unit B,Pune,Under Maintenance,Corrective,2025-08-16,12,56759.0,Fuse,123.0,28,2,OK
+REC-0161,AST-1104,Generator,Unit B,Pune,Operational,,2025-04-12,0,0.0,Sensor,74.0,32,17,OK
+REC-0162,AST-1061,Generator,Unit A,Chandigarh,Operational,,2026-02-21,1,0.0,Sensor,103.0,34,8,OK
+REC-0163,AST-1123,Communication Equipment,Unit D,Ahmedabad,Operational,,2025-08-04,0,0.0,Cable,86.0,46,15,OK
+REC-0164,AST-1134,Cooling System,Unit E,Chandigarh,Operational,Preventive,2026-02-11,0,31484.0,Connector,79.0,34,15,OK
+REC-0165,AST-1009,Generator,Unit C,Ahmedabad,Operational,,2026-02-03,1,0.0,Battery,122.0,47,8,OK
+REC-0166,AST-1006,Power Unit,Unit A,Ahmedabad,Under Maintenance,Preventive,2026-05-14,19,7191.0,Sensor,88.0,56,16,OK
+REC-0167,AST-1073,Radar Unit,Unit D,Jodhpur,Operational,,2026-04-10,0,0.0,Lubricant,73.0,38,19,OK
+REC-0168,AST-1103,Generator,Unit C,Jodhpur,Operational,Corrective,2025-03-23,1,20382.0,Fuse,63.0,45,11,OK
+REC-0169,AST-1041,Power Unit,Unit B,Delhi,Operational,,2025-12-31,1,0.0,Connector,130.0,45,2,OK
+REC-0170,AST-1114,Vehicle,Unit B,Ahmedabad,Operational,,2025-06-12,2,0.0,Lubricant,115.0,44,17,OK
+REC-0171,AST-1008,Power Unit,Unit C,Pune,Operational,,2025-02-17,0,0.0,Battery,66.0,45,16,OK
+REC-0172,AST-1072,Radar Unit,Unit A,Jaipur,Operational,,2026-05-26,0,0.0,Cable,148.0,45,15,OK
+REC-0173,AST-1092,Power Unit,Unit B,Delhi,Operational,,2025-11-25,2,0.0,Sensor,132.0,47,13,OK
+REC-0174,AST-1062,Communication Equipment,Unit E,Jodhpur,Operational,Inspection,2025-04-26,0,10599.0,Lubricant,109.0,37,15,OK
+REC-0175,AST-1084,Radar Unit,Unit C,Chandigarh,Operational,,2025-12-03,1,0.0,Connector,72.0,51,4,OK
+REC-0176,AST-1062,Cooling System,Unit C,Delhi,Operational,,2025-05-27,1,0.0,Filter,19.0,22,16,Low Stock
+REC-0177,AST-1111,Vehicle,Unit B,Delhi,Under Maintenance,Corrective,2025-11-19,29,42123.0,Fuse,39.0,21,12,OK
+REC-0178,AST-1127,Communication Equipment,Unit A,Delhi,Operational,,2026-03-19,0,0.0,Connector,18.0,52,4,Low Stock
+REC-0179,AST-1007,Cooling System,Unit E,Delhi,Standby,Inspection,2025-01-13,1,1820.0,Lubricant,106.0,38,3,OK
+REC-0180,AST-1084,Power Unit,Unit A,Jaipur,Operational,,2026-05-09,1,0.0,Fuse,104.0,36,17,OK
+REC-0181,AST-1132,Radar Unit,Unit D,Chandigarh,Operational,,2025-10-14,2,0.0,Sensor,11.0,52,18,Low Stock
+REC-0182,AST-1134,Vehicle,Unit D,Chandigarh,Operational,,2025-04-24,0,0.0,Filter,34.0,31,18,OK
+REC-0183,AST-1058,Communication Equipment,Unit B,Chandigarh,Standby,Inspection,2026-04-25,0,8354.0,Cable,53.0,22,17,OK
+REC-0184,AST-1022,Cooling System,Unit B,Ahmedabad,Under Maintenance,Corrective,2025-01-22,9,65664.0,Connector,148.0,45,12,OK
+REC-0185,AST-1127,Cooling System,Unit B,Pune,Operational,,2025-12-15,2,0.0,Cable,115.0,54,4,OK
+REC-0186,AST-1003,Vehicle,Unit D,Chandigarh,Operational,,2025-11-16,0,0.0,Filter,76.0,27,12,OK
+REC-0187,AST-1127,Power Unit,Unit A,Delhi,Under Maintenance,Preventive,2025-05-06,9,36964.0,Fuse,84.0,55,20,OK
+REC-0188,AST-1041,Vehicle,Unit A,Delhi,Operational,,2025-10-04,0,0.0,Sensor,87.0,26,15,OK
+REC-0189,AST-1106,Cooling System,Unit B,Chandigarh,Operational,,2025-07-23,1,0.0,Lubricant,46.0,55,16,Low Stock
+REC-0190,AST-1014,Generator,Unit E,Chandigarh,Operational,,2025-07-13,0,0.0,Filter,21.0,35,5,Low Stock
+REC-0191,AST-1012,Communication Equipment,Unit A,Delhi,Operational,,2025-10-13,0,0.0,Battery,11.0,43,15,Low Stock
+REC-0192,AST-1087,Vehicle,Unit D,Ahmedabad,Standby,Inspection,2025-02-26,0,1511.0,Fuse,14.0,20,17,Low Stock
+REC-0193,AST-1012,Cooling System,Unit C,Jodhpur,Standby,Preventive,2025-10-30,2,28689.0,Cable,38.0,44,18,Low Stock
+REC-0194,AST-1141,Power Unit,Unit C,Jodhpur,Operational,,2025-06-12,0,0.0,Connector,40.0,29,5,OK
+REC-0195,AST-1025,Cooling System,Unit C,Chandigarh,Operational,,2025-01-19,0,0.0,Filter,10.0,35,13,Low Stock
+REC-0196,AST-1045,Power Unit,Unit E,Jaipur,Operational,Corrective,2026-01-05,0,50172.0,Cable,150.0,35,19,OK
+REC-0197,AST-1122,Vehicle,Unit B,Chandigarh,Under Maintenance,Corrective,2025-09-21,14,77197.0,Fuse,138.0,27,13,OK
+REC-0198,AST-1147,Power Unit,Unit D,Chandigarh,Standby,Preventive,2025-04-23,0,21330.0,Cable,33.0,48,18,Low Stock
+REC-0199,AST-1055,Radar Unit,Unit E,Jodhpur,Standby,Preventive,2026-05-03,0,11891.0,Filter,130.0,58,14,OK
+REC-0200,AST-1100,Radar Unit,Unit D,Delhi,Under Maintenance,Preventive,2025-11-23,5,11992.0,Fuse,85.0,47,4,OK
+REC-0201,AST-1136,Radar Unit,Unit D,Chandigarh,Operational,,2026-06-26,0,0.0,Battery,79.0,25,4,OK
+REC-0202,AST-1119,Generator,Unit B,Delhi,Operational,,2025-03-06,0,0.0,Filter,30.0,35,20,Low Stock
+REC-0203,AST-1053,Vehicle,Unit C,Delhi,Operational,,2025-10-19,2,0.0,Lubricant,131.0,39,20,OK
+REC-0204,AST-1032,Cooling System,Unit B,Jaipur,Standby,Preventive,2025-01-25,0,17848.0,Sensor,119.0,35,19,OK
+REC-0205,AST-1051,Cooling System,Unit E,Delhi,Operational,,2025-01-01,0,0.0,Filter,130.0,26,13,OK
+REC-0206,AST-1044,Generator,Unit E,Jodhpur,Operational,,2025-05-21,0,0.0,Fuse,32.0,60,12,Low Stock
+REC-0207,AST-1082,Power Unit,Unit E,Ahmedabad,Operational,,2025-07-07,0,0.0,Connector,135.0,33,7,OK
+REC-0208,AST-1146,Generator,Unit B,Ahmedabad,Operational,,2025-05-08,0,0.0,Sensor,79.0,45,12,OK
+REC-0209,AST-1150,Power Unit,Unit D,Pune,Operational,Inspection,2025-07-20,2,11089.0,Filter,82.0,45,4,OK
+REC-0210,AST-1037,Power Unit,Unit D,Chandigarh,Operational,,2025-05-07,0,0.0,Battery,94.0,33,2,OK
+REC-0211,AST-1096,Vehicle,Unit A,Jodhpur,Operational,,2025-09-14,0,0.0,Connector,25.0,26,2,Low Stock
+REC-0212,AST-1056,Cooling System,Unit E,Delhi,Under Maintenance,Corrective,2025-07-13,18,62516.0,Battery,58.0,52,5,OK
+REC-0213,AST-1105,Radar Unit,Unit D,Ahmedabad,Operational,,2025-04-14,0,0.0,Lubricant,107.0,45,10,OK
+REC-0214,AST-1059,Power Unit,Unit A,Jodhpur,Operational,,2026-06-19,2,0.0,Connector,63.0,39,10,OK
+REC-0215,AST-1131,Communication Equipment,Unit D,Ahmedabad,Under Maintenance,Corrective,2025-09-22,21,77049.0,Cable,76.0,22,9,OK
+REC-0216,AST-1035,Cooling System,Unit E,Delhi,Operational,,2026-01-19,1,0.0,Connector,24.0,23,13,OK
+REC-0217,AST-1093,Radar Unit,Unit C,Ahmedabad,Operational,Preventive,2025-09-17,1,18241.0,Sensor,116.0,45,7,OK
+REC-0218,AST-1097,Power Unit,Unit E,Chandigarh,Under Maintenance,Corrective,2026-02-18,4,69727.0,Connector,63.0,30,5,OK
+REC-0219,AST-1135,Power Unit,Unit B,Chandigarh,Operational,,2025-12-24,0,0.0,Fuse,75.0,21,10,OK
+REC-0220,AST-1076,Generator,Unit D,Pune,Under Maintenance,Preventive,2025-03-16,8,38954.0,Fuse,141.0,33,10,OK
+REC-0221,AST-1049,Generator,Unit D,Pune,Operational,,2025-12-21,1,0.0,Cable,113.0,49,6,OK
+REC-0222,AST-1094,Cooling System,Unit B,Ahmedabad,Operational,,2025-07-07,2,0.0,Connector,133.0,31,19,OK
+REC-0223,AST-1024,Radar Unit,Unit B,Jodhpur,Operational,,2025-10-17,0,0.0,Battery,60.0,45,8,OK
+REC-0224,AST-1148,Power Unit,Unit C,Chandigarh,Operational,Inspection,2025-02-14,2,6183.0,Battery,39.0,52,1,Low Stock
+REC-0225,AST-1037,Cooling System,Unit D,Jodhpur,Operational,,2025-03-24,2,0.0,Filter,127.0,32,17,OK
+REC-0226,AST-1004,Cooling System,Unit D,Jodhpur,Operational,Corrective,2025-05-03,0,28625.0,Lubricant,135.0,33,7,OK
+REC-0227,AST-1108,Vehicle,Unit C,Ahmedabad,Standby,Corrective,2025-12-24,0,24859.0,Sensor,108.0,43,14,OK
+REC-0228,AST-1126,Generator,Unit A,Jodhpur,Operational,,2026-06-12,0,0.0,Lubricant,11.0,53,17,Low Stock
+REC-0229,AST-1020,Radar Unit,Unit C,Chandigarh,Standby,Preventive,2025-03-07,0,22641.0,Connector,31.0,45,9,Low Stock
+REC-0230,AST-1050,Power Unit,Unit E,Delhi,Operational,,2026-01-10,1,0.0,Lubricant,5.0,40,17,Low Stock
+REC-0231,AST-1096,Cooling System,Unit D,Pune,Under Maintenance,Corrective,2025-06-11,28,45216.0,Filter,91.0,47,5,OK
+REC-0232,AST-1105,Power Unit,Unit B,Delhi,Operational,,2026-01-15,1,0.0,Lubricant,45.0,55,20,Low Stock
+REC-0233,AST-1117,Vehicle,Unit E,Jodhpur,Operational,,2025-12-24,1,0.0,Cable,127.0,59,8,OK
+REC-0234,AST-1098,Radar Unit,Unit D,Delhi,Operational,Inspection,2025-07-07,0,2909.0,Filter,79.0,21,6,OK
+REC-0235,AST-1066,Cooling System,Unit C,Chandigarh,Operational,,2025-11-18,1,0.0,Cable,46.0,28,11,OK
+REC-0236,AST-1079,Power Unit,Unit E,Chandigarh,Under Maintenance,Corrective,2026-03-26,2,25485.0,Connector,121.0,42,19,OK
+REC-0237,AST-1006,Generator,Unit D,Jodhpur,Operational,Inspection,2026-04-19,2,8952.0,Filter,67.0,34,4,OK
+REC-0238,AST-1039,Vehicle,Unit A,Ahmedabad,Operational,,2025-01-13,1,0.0,Connector,131.0,32,18,OK
+REC-0239,AST-1115,Radar Unit,Unit A,Delhi,Operational,,2025-07-03,0,0.0,Connector,137.0,42,1,OK
+REC-0240,AST-1125,Vehicle,Unit B,Ahmedabad,Operational,,2025-04-21,0,0.0,Lubricant,52.0,36,13,OK
+REC-0241,AST-1012,Generator,Unit D,Ahmedabad,Standby,Preventive,2026-05-23,2,27354.0,Cable,7.0,21,14,Low Stock
+REC-0242,AST-1131,Radar Unit,Unit A,Jaipur,Standby,Corrective,2025-10-17,2,30226.0,Connector,120.0,39,1,OK
+REC-0243,AST-1018,Vehicle,Unit C,Jodhpur,Standby,Preventive,2025-10-22,1,35820.0,Cable,103.0,39,11,OK
+REC-0244,AST-1040,Communication Equipment,Unit D,Pune,Operational,Corrective,2026-03-27,2,49709.0,Cable,120.0,22,17,OK
+REC-0245,AST-1021,Generator,Unit C,Chandigarh,Operational,Preventive,2025-08-03,1,12552.0,Filter,18.0,31,4,Low Stock
+REC-0246,AST-1143,Generator,Unit C,Chandigarh,Standby,,2025-01-27,1,0.0,Fuse,116.0,59,12,OK
+REC-0247,AST-1099,Generator,Unit A,Jodhpur,Operational,,2025-08-19,0,0.0,Lubricant,65.0,21,10,OK
+REC-0248,AST-1026,Communication Equipment,Unit D,Pune,Standby,,2025-11-17,0,0.0,Connector,99.0,55,6,OK
+REC-0249,AST-1008,Communication Equipment,Unit E,Chandigarh,Standby,,2025-08-21,0,0.0,Cable,21.0,33,1,Low Stock
+REC-0250,AST-1100,Power Unit,Unit A,Jodhpur,Under Maintenance,Corrective,2026-03-13,2,45526.0,Sensor,128.0,35,7,OK
+REC-0251,AST-1087,Cooling System,Unit A,Chandigarh,Operational,Preventive,2026-06-17,0,34790.0,Fuse,28.0,38,16,Low Stock
+REC-0252,AST-1042,Vehicle,Unit D,Ahmedabad,Operational,,2026-02-07,1,0.0,Connector,120.0,53,14,OK
+REC-0253,AST-1014,Power Unit,Unit D,Delhi,Under Maintenance,Corrective,2025-02-22,3,42031.0,Sensor,86.0,25,20,OK
+REC-0254,AST-1078,Vehicle,Unit C,Delhi,Operational,,2025-11-09,1,0.0,Lubricant,54.0,32,20,OK
+REC-0255,AST-1002,Cooling System,Unit D,Chandigarh,Operational,,2025-10-08,1,0.0,Lubricant,83.0,55,6,OK
+REC-0256,AST-1119,Communication Equipment,Unit C,Jaipur,Operational,,2025-01-31,0,0.0,Cable,83.0,41,5,OK
+REC-0257,AST-1037,Cooling System,Unit A,Pune,Standby,Preventive,2025-12-03,0,16175.0,Cable,74.0,37,18,OK
+REC-0258,AST-1069,Communication Equipment,Unit B,Pune,Under Maintenance,Preventive,2025-07-02,5,32464.0,Connector,31.0,31,15,OK
+REC-0259,AST-1041,Cooling System,Unit E,Pune,Operational,Inspection,2025-01-23,2,2162.0,Filter,19.0,49,6,Low Stock
+REC-0260,AST-1062,Power Unit,Unit A,Ahmedabad,Operational,Inspection,2026-06-28,2,10171.0,Fuse,54.0,59,19,Low Stock
+REC-0261,AST-1060,Radar Unit,Unit D,Pune,Operational,Corrective,2026-03-22,0,33899.0,Connector,40.0,26,1,OK
+REC-0262,AST-1125,Power Unit,Unit E,Delhi,Standby,,2025-03-15,0,0.0,Fuse,12.0,51,1,Low Stock
+REC-0263,AST-1111,Vehicle,Unit B,Ahmedabad,Operational,,2025-01-10,1,0.0,Cable,83.0,38,13,OK
+REC-0264,AST-1014,Power Unit,Unit B,Jodhpur,Operational,Preventive,2026-04-29,2,20026.0,Lubricant,135.0,25,3,OK
+REC-0265,AST-1084,Generator,Unit C,Pune,Under Maintenance,Inspection,2026-04-01,13,7374.0,Cable,51.0,39,10,OK
+REC-0266,AST-1130,Vehicle,Unit E,Pune,Under Maintenance,Corrective,2025-06-09,27,43183.0,Lubricant,109.0,46,3,OK
+REC-0267,AST-1070,Cooling System,Unit C,Jodhpur,Under Maintenance,Inspection,2025-01-14,20,3514.0,Connector,102.0,56,9,OK
+REC-0268,AST-1145,Vehicle,Unit A,Pune,Under Maintenance,Preventive,2025-06-27,20,14347.0,Lubricant,100.0,26,8,OK
+REC-0269,AST-1123,Radar Unit,Unit E,Jodhpur,Operational,,2026-02-16,2,0.0,Cable,120.0,24,3,OK
+REC-0270,AST-1089,Communication Equipment,Unit A,Ahmedabad,Operational,,2025-02-22,0,0.0,Battery,17.0,30,13,Low Stock
+REC-0271,AST-1028,Cooling System,Unit C,Delhi,Under Maintenance,Preventive,2026-02-12,8,11668.0,Fuse,5.0,34,6,Low Stock
+REC-0272,AST-1066,Vehicle,Unit E,Jodhpur,Under Maintenance,Preventive,2025-01-22,16,27671.0,Sensor,38.0,22,13,OK
+REC-0273,AST-1005,Cooling System,Unit C,Jaipur,Under Maintenance,Corrective,2025-01-30,24,34103.0,Lubricant,83.0,24,20,OK
+REC-0274,AST-1045,Cooling System,Unit E,Jodhpur,Standby,Inspection,2025-09-17,0,7419.0,Lubricant,82.0,42,20,OK
+REC-0275,AST-1047,Cooling System,Unit C,Pune,Operational,,2025-07-24,0,0.0,Battery,125.0,56,12,OK
+REC-0276,AST-1031,Communication Equipment,unit c,Ahmedabad,Operational,,2025-02-28,1,0.0,Connector,97.0,28,13,OK
+REC-0277,AST-1139,Power Unit,Unit C,Chandigarh,Under Maintenance,Preventive,2026-04-16,6,37266.0,Connector,102.0,34,2,OK
+REC-0278,AST-1010,Cooling System,Unit B,Ahmedabad,Operational,,2026-04-11,0,0.0,Connector,86.0,22,16,OK
+REC-0279,AST-1118,Generator,Unit C,Chandigarh,Under Maintenance,Corrective,2025-01-12,15,59258.0,Sensor,42.0,48,6,Low Stock
+REC-0280,AST-1014,Radar Unit,Unit E,Jodhpur,Under Maintenance,Corrective,2025-10-17,5,51724.0,Filter,18.0,25,19,Low Stock
+REC-0281,AST-1080,Communication Equipment,Unit E,Delhi,Standby,,2025-12-20,0,0.0,Battery,140.0,36,13,OK
+REC-0282,AST-1093,Vehicle,Unit E,Jaipur,Operational,,2025-03-16,1,0.0,Sensor,95.0,45,17,OK
+REC-0283,AST-1010,Communication Equipment,Unit D,Ahmedabad,Operational,,2026-03-17,2,0.0,Battery,58.0,40,9,OK
+REC-0284,AST-1076,Vehicle,Unit A,Pune,Operational,,2025-08-29,0,0.0,Lubricant,134.0,27,17,OK
+REC-0285,AST-1094,Communication Equipment,Unit E,Chandigarh,Operational,,2025-06-03,2,0.0,Fuse,105.0,40,2,OK
+REC-0286,AST-1105,Vehicle,Unit B,Pune,Operational,,2025-04-06,0,0.0,Battery,93.0,30,19,OK
+REC-0287,AST-1001,Cooling System,Unit E,Delhi,Operational,,2025-10-21,0,0.0,Filter,60.0,57,19,OK
+REC-0288,AST-1133,Power Unit,Unit D,Chandigarh,Operational,Preventive,2025-07-28,0,36631.0,Cable,98.0,27,7,OK
+REC-0289,AST-1020,Vehicle,Unit B,Ahmedabad,Operational,,2025-12-09,0,0.0,Sensor,97.0,43,10,OK
+REC-0290,AST-1008,Vehicle,Unit D,Jodhpur,Operational,Preventive,2025-03-29,2,10961.0,Battery,88.0,54,10,OK
+REC-0291,AST-1001,Generator,Unit B,Pune,Operational,,2026-01-25,0,0.0,Battery,89.0,33,20,OK
+REC-0292,AST-1057,Vehicle,Unit C,Delhi,Operational,Corrective,2025-11-21,0,43525.0,Filter,26.0,33,9,Low Stock
+REC-0293,AST-1064,Generator,Unit A,Ahmedabad,Under Maintenance,Corrective,2025-06-06,17,32334.0,Fuse,39.0,29,17,OK
+REC-0294,AST-1118,Radar Unit,Unit A,Ahmedabad,Operational,Preventive,2025-05-17,2,25103.0,Battery,20.0,31,15,Low Stock
+REC-0295,AST-1028,Cooling System,Unit D,Ahmedabad,Operational,,2026-03-04,1,0.0,Battery,54.0,57,2,Low Stock
+REC-0296,AST-1121,Generator,Unit A,Ahmedabad,Operational,Inspection,2026-03-28,0,3737.0,Fuse,126.0,53,4,OK
+REC-0297,AST-1107,Power Unit,Unit D,Chandigarh,Under Maintenance,Corrective,2025-05-21,15,61469.0,Filter,132.0,60,19,OK
+REC-0298,AST-1049,Cooling System,Unit D,Ahmedabad,Operational,,2025-03-24,2,0.0,Sensor,117.0,29,17,OK
+REC-0299,AST-1120,Generator,Unit D,Pune,Operational,,2025-06-26,1,0.0,Sensor,21.0,36,5,Low Stock
+REC-0300,AST-1044,Cooling System,Unit A,Delhi,Operational,Inspection,2025-07-17,0,9391.0,Battery,84.0,36,7,OK
+REC-0301,AST-1056,Cooling System,Unit D,Chandigarh,Operational,Inspection,2026-02-25,0,1825.0,Fuse,134.0,22,18,OK
+REC-0302,AST-1111,Cooling System,Unit A,Ahmedabad,Operational,Preventive,2026-02-05,2,36432.0,Battery,136.0,50,7,OK
+REC-0303,AST-1134,Radar Unit,Unit D,Jaipur,Operational,,2026-04-16,0,0.0,Connector,89.0,20,17,OK
+REC-0304,AST-1108,Power Unit,Unit E,Jaipur,Operational,,2025-08-06,0,0.0,Cable,98.0,31,7,OK
+REC-0305,AST-1148,Communication Equipment,Unit D,Delhi,Under Maintenance,Corrective,2025-06-24,2,64287.0,Sensor,138.0,58,4,OK
+REC-0306,AST-1114,Communication Equipment,Unit B,Jodhpur,Standby,,2025-01-23,0,0.0,Connector,85.0,23,8,OK
+REC-0307,AST-1078,Generator,Unit D,Jodhpur,Operational,,2025-08-23,2,0.0,Lubricant,73.0,32,13,OK
+REC-0308,AST-1130,Cooling System,Unit C,Chandigarh,Operational,,2025-01-13,2,0.0,Cable,73.0,53,4,OK
+REC-0309,AST-1037,Generator,Unit D,Chandigarh,Under Maintenance,Corrective,2025-04-11,28,51340.0,Battery,20.0,40,6,Low Stock
+REC-0310,AST-1020,Radar Unit,Unit B,Chandigarh,Operational,,2026-06-20,2,0.0,Filter,55.0,41,5,OK
+REC-0311,AST-1026,Radar Unit,Unit B,Jodhpur,Operational,,2026-06-07,0,0.0,Sensor,109.0,23,12,OK
+REC-0312,AST-1029,Vehicle,Unit A,Jaipur,Operational,,2026-03-28,0,0.0,Lubricant,70.0,37,4,OK
+REC-0313,AST-1001,Radar Unit,Unit E,Jodhpur,Operational,,2026-03-07,0,0.0,Cable,13.0,24,9,Low Stock
+REC-0314,AST-1119,Vehicle,Unit D,Pune,Standby,Corrective,2026-06-17,0,23741.0,Sensor,111.0,38,4,OK
+REC-0315,AST-1035,Power Unit,Unit A,Ahmedabad,Under Maintenance,Preventive,2025-10-20,25,9462.0,Fuse,104.0,21,19,OK
+REC-0316,AST-1059,Generator,Unit E,Chandigarh,Under Maintenance,Inspection,2025-04-11,25,8254.0,Filter,90.0,31,14,OK
+REC-0317,AST-1069,Power Unit,Unit D,Jaipur,Operational,,2026-05-17,0,0.0,Cable,68.0,36,5,OK
+REC-0318,AST-1012,Radar Unit,Unit C,Delhi,Operational,,2025-10-31,1,0.0,Fuse,26.0,29,18,Low Stock
+REC-0319,AST-1020,Power Unit,Unit D,Delhi,Operational,,2026-06-24,2,0.0,Connector,114.0,53,10,OK
+REC-0320,AST-1043,Power Unit,Unit B,Ahmedabad,Operational,,2025-12-21,1,0.0,Battery,101.0,25,19,OK
+REC-0321,AST-1126,Power Unit,Unit B,Jaipur,Operational,,2025-10-30,0,0.0,Fuse,22.0,27,12,Low Stock
+REC-0322,AST-1050,Radar Unit,Unit C,Jodhpur,Under Maintenance,Corrective,2026-05-11,18,32026.0,Cable,75.0,30,18,OK
+REC-0323,AST-1029,Cooling System,Unit A,Jodhpur,Operational,,2025-08-15,0,0.0,Cable,131.0,31,17,OK
+REC-0324,AST-1039,Power Unit,Unit E,Pune,Operational,,2025-08-24,2,0.0,Connector,101.0,28,11,OK
+REC-0325,AST-1038,Vehicle,Unit D,Pune,Standby,Inspection,2026-03-31,1,10543.0,Battery,5.0,21,3,Low Stock
+REC-0326,AST-1084,Radar Unit,Unit B,Jodhpur,Under Maintenance,Inspection,2025-01-13,21,8993.0,Fuse,136.0,27,17,OK
+REC-0327,AST-1128,Power Unit,Unit A,Delhi,Operational,Preventive,2025-07-29,2,9618.0,Fuse,8.0,30,1,Low Stock
+REC-0328,AST-1126,Cooling System,Unit C,Chandigarh,Operational,,2026-02-01,0,0.0,Battery,129.0,55,15,OK
+REC-0329,AST-1045,Radar Unit,Unit B,Delhi,Operational,,2025-04-10,1,0.0,Fuse,86.0,29,9,OK
+REC-0330,AST-1052,Communication Equipment,Unit C,Pune,Operational,,2025-01-31,0,0.0,Sensor,31.0,40,15,Low Stock
+REC-0331,AST-1080,Cooling System,Unit D,Ahmedabad,Operational,Preventive,2026-06-12,1,16603.0,Battery,63.0,39,3,OK
+REC-0332,AST-1124,Vehicle,Unit E,Jodhpur,Under Maintenance,Preventive,2025-11-25,26,12368.0,Filter,36.0,27,19,OK
+REC-0333,AST-1119,Power Unit,Unit B,Pune,Operational,,2025-06-15,1,0.0,Cable,32.0,55,13,Low Stock
+REC-0334,AST-1008,Communication Equipment,Unit B,Pune,Operational,,2026-04-04,2,0.0,Filter,110.0,48,12,OK
+REC-0335,AST-1085,Communication Equipment,Unit D,Chandigarh,Operational,,2025-04-10,2,0.0,Sensor,109.0,31,20,OK
+REC-0336,AST-1129,Radar Unit,Unit A,Jodhpur,Operational,,2025-06-22,0,0.0,Connector,74.0,33,1,OK
+REC-0337,AST-1008,Communication Equipment,Unit E,Chandigarh,Under Maintenance,Preventive,2025-06-11,7,19306.0,Sensor,66.0,40,17,OK
+REC-0338,AST-1096,Vehicle,Unit B,Jodhpur,Under Maintenance,Preventive,2025-09-20,6,31042.0,Lubricant,38.0,41,13,Low Stock
+REC-0339,AST-1102,Vehicle,Unit E,Chandigarh,Operational,,2025-10-01,0,0.0,Lubricant,91.0,40,1,OK
+REC-0340,AST-1005,Generator,Unit B,Delhi,Operational,,2025-01-03,0,0.0,Lubricant,118.0,49,10,OK
+REC-0341,AST-1086,Vehicle,Unit E,Ahmedabad,Operational,Corrective,2025-01-28,0,79169.0,Battery,110.0,58,15,OK
+REC-0342,AST-1034,Cooling System,Unit C,Ahmedabad,Operational,,2025-11-22,2,0.0,Fuse,60.0,39,7,OK
+REC-0343,AST-1055,Communication Equipment,Unit B,Jodhpur,Operational,,2025-05-29,0,0.0,Sensor,117.0,43,18,OK
+REC-0344,AST-1119,Vehicle,Unit E,Jaipur,Operational,Inspection,2026-06-24,2,10344.0,Filter,17.0,42,16,Low Stock
+REC-0345,AST-1114,Radar Unit,Unit A,Pune,Operational,Preventive,2026-05-03,1,25019.0,Connector,22.0,26,14,Low Stock
+REC-0346,AST-1145,Generator,Unit C,Pune,Operational,,2026-03-14,0,0.0,Filter,117.0,28,18,OK
+REC-0347,AST-1026,Communication Equipment,Unit C,Jodhpur,Operational,Corrective,2025-03-06,0,52087.0,Filter,43.0,20,7,OK
+REC-0348,AST-1136,Generator,Unit A,Chandigarh,Operational,,2025-12-22,1,0.0,Filter,83.0,45,17,OK
+REC-0349,AST-1047,Communication Equipment,Unit E,Jaipur,Operational,,2026-06-17,1,0.0,Connector,150.0,57,18,OK
+REC-0350,AST-1113,Radar Unit,Unit D,Delhi,Operational,Inspection,2025-09-09,2,11664.0,Lubricant,34.0,57,12,Low Stock
+REC-0351,AST-1076,Generator,Unit A,Chandigarh,Operational,,2025-08-23,2,0.0,Filter,102.0,41,8,OK
+REC-0352,AST-1072,Power Unit,Unit E,Chandigarh,Under Maintenance,Preventive,2025-08-15,5,36134.0,Connector,62.0,29,2,OK
+REC-0353,AST-1089,Cooling System,Unit A,Jodhpur,Operational,Inspection,2026-06-09,2,5539.0,Connector,71.0,25,7,OK
+REC-0354,AST-1046,Cooling System,Unit A,Jodhpur,Operational,,2025-11-09,1,0.0,Fuse,75.0,36,4,OK
+REC-0355,AST-1033,Communication Equipment,Unit B,Pune,Operational,,2025-02-18,0,0.0,Connector,150.0,57,18,OK
+REC-0356,AST-1001,Power Unit,Unit E,Jodhpur,Operational,,2025-04-28,0,0.0,Lubricant,110.0,43,6,OK
+REC-0357,AST-1147,Generator,Unit D,Jodhpur,Operational,,2025-02-23,0,0.0,Filter,11.0,29,9,Low Stock
+REC-0358,AST-1031,Power Unit,Unit B,Jodhpur,Operational,,2025-02-13,0,0.0,Connector,44.0,27,9,OK
+REC-0359,AST-1142,Power Unit,Unit A,Pune,Standby,,2025-02-22,1,0.0,Battery,74.0,40,14,OK
+REC-0360,AST-1053,Generator,Unit A,Delhi,Operational,,2026-06-09,2,0.0,Connector,72.0,25,8,OK
+REC-0361,AST-1048,Radar Unit,Unit A,Delhi,Operational,Preventive,2025-04-12,0,11887.0,Cable,53.0,40,19,OK
+REC-0362,AST-1069,Power Unit,Unit E,Jodhpur,Operational,,2026-02-02,2,0.0,Cable,56.0,58,3,Low Stock
+REC-0363,AST-1105,Power Unit,Unit E,Pune,Operational,,2025-05-18,1,0.0,Cable,118.0,43,18,OK
+REC-0364,AST-1090,Radar Unit,Unit B,Delhi,Operational,,2026-01-22,0,0.0,Connector,111.0,52,5,OK
+REC-0365,AST-1063,Power Unit,Unit D,Chandigarh,Standby,Preventive,2025-04-21,0,16772.0,Lubricant,33.0,37,14,Low Stock
+REC-0366,AST-1073,Power Unit,Unit B,Delhi,Operational,Inspection,2025-01-17,1,8078.0,Filter,82.0,47,4,OK
+REC-0367,AST-1089,Power Unit,Unit C,Delhi,Standby,,2025-07-01,0,0.0,Sensor,13.0,51,7,Low Stock
+REC-0368,AST-1013,Cooling System,Unit A,Pune,Standby,,2026-06-20,0,0.0,Sensor,80.0,31,20,OK
+REC-0369,AST-1073,Vehicle,Unit A,Chandigarh,Operational,Corrective,2026-06-25,0,40250.0,Sensor,46.0,46,12,OK
+REC-0370,AST-1077,Radar Unit,Unit A,Pune,Operational,,2025-06-20,1,0.0,Lubricant,132.0,29,2,OK
+REC-0371,AST-1068,Power Unit,Unit B,Jodhpur,Operational,,2026-02-13,2,0.0,Fuse,24.0,51,11,Low Stock
+REC-0372,AST-1098,Cooling System,Unit B,Ahmedabad,Operational,,2026-01-13,0,0.0,Battery,76.0,45,14,OK
+REC-0373,AST-1125,Radar Unit,Unit A,Delhi,Operational,,2025-07-07,0,0.0,Battery,69.0,44,16,OK
+REC-0374,AST-1102,Communication Equipment,Unit B,Ahmedabad,Under Maintenance,Corrective,2025-08-18,16,47768.0,Cable,117.0,30,20,OK
+REC-0375,AST-1132,Communication Equipment,Unit E,Pune,Operational,,2025-04-29,1,0.0,Cable,28.0,42,6,Low Stock
+REC-0376,AST-1102,Power Unit,Unit E,Pune,Operational,,2025-06-05,0,0.0,Connector,132.0,53,4,OK
+REC-0377,AST-1019,Cooling System,Unit B,Pune,Under Maintenance,Corrective,2026-04-10,8,64830.0,Sensor,87.0,59,15,OK
+REC-0378,AST-1082,Cooling System,Unit A,Ahmedabad,Operational,,2025-04-14,0,0.0,Connector,67.0,42,1,OK
+REC-0379,AST-1141,Radar Unit,Unit B,Pune,Under Maintenance,Preventive,2026-05-17,25,34542.0,Sensor,64.0,48,7,OK
+REC-0380,AST-1023,Radar Unit,Unit B,Jodhpur,Operational,,2025-06-24,1,0.0,Cable,103.0,50,12,OK
+REC-0381,AST-1083,Cooling System,Unit B,Pune,Operational,,2026-02-25,2,0.0,Filter,66.0,26,10,OK
+REC-0382,AST-1109,Radar Unit,Unit C,Jaipur,Under Maintenance,Preventive,2025-05-14,23,35430.0,Fuse,34.0,59,5,Low Stock
+REC-0383,AST-1075,Cooling System,Unit E,Ahmedabad,Operational,Preventive,2026-01-26,1,13009.0,Connector,26.0,52,12,Low Stock
+REC-0384,AST-1129,Vehicle,Unit D,Jaipur,Under Maintenance,Corrective,2026-05-16,9,49085.0,Fuse,130.0,40,18,OK
+REC-0385,AST-1088,Cooling System,Unit D,Pune,Under Maintenance,Corrective,2025-02-02,18,73571.0,Fuse,46.0,21,10,OK
+REC-0386,AST-1054,Communication Equipment,Unit C,Jodhpur,Under Maintenance,Corrective,2025-02-24,17,32715.0,Fuse,102.0,37,6,OK
+REC-0387,AST-1089,Radar Unit,Unit B,Delhi,Operational,Inspection,2026-06-03,1,8002.0,Cable,35.0,52,12,Low Stock
+REC-0388,AST-1143,Cooling System,Unit C,Chandigarh,Operational,,2025-01-12,0,0.0,Battery,116.0,56,7,OK
+REC-0389,AST-1065,Cooling System,Unit C,Chandigarh,Under Maintenance,Corrective,2026-06-12,11,50093.0,Cable,150.0,53,18,OK
+REC-0390,AST-1076,Radar Unit,Unit A,Pune,Under Maintenance,Corrective,2026-01-08,11,52314.0,Fuse,126.0,39,2,OK
+REC-0391,AST-1143,Vehicle,Unit E,Jodhpur,Standby,Preventive,2026-04-29,1,37096.0,Cable,21.0,54,10,Low Stock
+REC-0392,AST-1149,Vehicle,Unit D,Ahmedabad,Operational,,2025-08-16,2,0.0,Fuse,42.0,37,15,OK
+REC-0393,AST-1147,Radar Unit,Unit B,Jaipur,Operational,Inspection,2025-11-03,1,7040.0,Lubricant,146.0,43,12,OK
+REC-0394,AST-1060,Generator,Unit D,Jaipur,Under Maintenance,Corrective,2026-04-02,18,50101.0,Sensor,114.0,27,17,OK
+REC-0395,AST-1093,Radar Unit,Unit D,Jaipur,Operational,,2025-06-09,2,0.0,Battery,26.0,49,4,Low Stock
+REC-0396,AST-1049,Radar Unit,Unit E,Ahmedabad,Standby,,2025-11-27,1,0.0,Lubricant,60.0,29,7,OK
+REC-0397,AST-1035,Vehicle,Unit D,Chandigarh,Under Maintenance,Inspection,2025-08-13,23,3412.0,Filter,123.0,42,9,OK
+REC-0398,AST-1102,Vehicle,Unit D,Jodhpur,Operational,Inspection,2026-05-19,0,10984.0,Cable,61.0,30,19,OK
+REC-0399,AST-1011,Radar Unit,Unit C,Ahmedabad,Under Maintenance,Corrective,2026-04-01,18,75124.0,Filter,39.0,21,7,OK
+REC-0400,AST-1099,Radar Unit,Unit E,Jaipur,Under Maintenance,Inspection,2025-02-14,5,10072.0,Connector,118.0,45,2,OK
